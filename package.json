@@ -1,0 +1,14 @@
+{
+  "name": "explorer",
+  "version": "1.0.0",
+  "description": "Airtime challenge 2",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "gzussa",
+  "dependencies": {
+    "bluebird": "^3.3.5",
+    "http": "0.0.0"
+  }
+}
