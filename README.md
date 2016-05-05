@@ -1,4 +1,4 @@
-# AirTime Challenge 2 by Gregory Zussa
+# AirTime Challenge 2
 
 Instructions [here](http://challenge2.airtime.com:10001/).
 
